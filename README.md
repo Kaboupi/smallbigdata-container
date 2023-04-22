@@ -24,6 +24,7 @@
 
 ## Шаги запуска
 ### 1. Скачаем docker image [<ins>по ссылке</ins>](https://drive.google.com/file/d/1xBgNpqfOBnvf_1ol5l3oxcQ0kOSnJz5v/view?usp=share_link)
+Вес архива составляет 983Мб, что превышает лимит допустимой загрузки в github, поэтому архив с образом был выгружен в Google Disk.
 ### 2. Распакуем архив
 Распакуем архив `smallbigdata-container.tar.gz` в `smallbigdata-container.tar` для дальнейшей загрузки в docker.
 ### 3. Загрузим docker image в docker
